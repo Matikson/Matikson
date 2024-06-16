@@ -28,3 +28,9 @@ Don't edit your photos!
 ![image](https://github.com/Matikson/Matikson/assets/127886507/8b786441-b457-4671-bef0-907d8dfd532c)
 ### 10. Make sure your subject stands out.
 ![image](https://github.com/Matikson/Matikson/assets/127886507/21adb5a7-78d1-47bc-9b2f-a08d35b09316)
+
+# Good examples from Jetphotos
+![image](https://cdn.jetphotos.com/full/6/409210_1718458788.jpg)
+![image](https://cdn.jetphotos.com/full/4/30706_1358435070.jpg)
+![image](https://cdn.jetphotos.com/full/6/790577_1717065392.jpg)
+![image](https://cdn.jetphotos.com/full/6/1089656_1716307868.jpg)
