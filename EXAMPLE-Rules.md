@@ -1,4 +1,4 @@
-# Rules
+# Rules (THIS IS ONLY AN EXAMPLE AND DOES NOT APPLY)
 ### 1. Select the correct aircraft tag;
 ![image](https://github.com/Matikson/Matikson/assets/127886507/a64275dd-3923-4f3e-b124-f132b419dea0)
 ### 2. Make sure your photo is cropped to 16:9 aspect ratio;
